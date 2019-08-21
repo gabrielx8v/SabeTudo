@@ -1,1 +1,1 @@
-cmd /k java -jar Nomedojar.jar
+cmd /k java -jar SabeTudo.jar
